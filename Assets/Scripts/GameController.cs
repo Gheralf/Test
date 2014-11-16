@@ -10,5 +10,6 @@ public class GameController : MonoBehaviour {
 	void Update () {
 		//Lisäsin tähän kommentin
 		// Lisäsin tähän toisen kommentin, että vähän sekoitetaan asioita.
+		//Toinen Annin kommentti
 	}
 }
