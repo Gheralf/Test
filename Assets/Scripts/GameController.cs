@@ -9,5 +9,6 @@ public class GameController : MonoBehaviour {
 
 	void Update () {
 		//Lisäsin tähän kommentin
+		//Toinen Annin kommentti
 	}
 }
