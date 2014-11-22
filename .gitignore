@@ -19,8 +19,8 @@ $RECYCLE.BIN/
 # =============== # 
 
 Temp/*
-Obj/ 
-UnityGenerated/ 
+Obj/* 
+UnityGenerated/* 
 Library/*
 Library/previews/*
 Library/ScriptAssemblies/*
