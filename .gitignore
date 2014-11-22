@@ -18,10 +18,15 @@ $RECYCLE.BIN/
 # Unity generated # 
 # =============== # 
 
-Temp/ 
+Temp/*
 Obj/ 
 UnityGenerated/ 
-Library/ 
+Library/*
+Library/previews/*
+Library/ScriptAssemblies/*
+Library/cache/*
+Library/metadata/*
+!Library/*.asset 
 Assets/AssetStoreTools* 
 *.pidb
 *.csproj
